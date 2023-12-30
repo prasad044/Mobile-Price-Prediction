@@ -8,7 +8,6 @@ The price of a cell phone, which has become a necessity in our daily lives, vari
 
 - Preprocessing
 - Data cleaning
-- Exploratory data analysis (EDA)
 - Preparing the data to train a model
 - Training and making predictions using various regression models
 - Model evaluation
